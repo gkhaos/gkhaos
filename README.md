@@ -25,8 +25,3 @@ Expertise in bridging industrial hardware with scalable cloud architectures. Foc
 
 ### Personal Interest
 **Automotive Engineering:** Strong passion for vehicle technology and hands-on mechanical engineering, exploring the synergy between legacy hardware and modern control units. Dedicated to the advancement of V2G (Vehicle-to-Grid) and the "All Electric Society".
-
----
-
-### Contact
-**LinkedIn:** [linkedin.com/in/manoel-rueffer](https://www.linkedin.com/in/manoel-rueffer)
