@@ -10,7 +10,7 @@ Expertise in bridging industrial hardware with scalable cloud architectures. Foc
 * **Software & Embedded:** C, C++, Java, Python. Specialized in RTOS-based firmware development and micro-optimization for industrial applications.
 * **Industrial Protocols (IT/OT):**
     * **Energy:** OCPP (1.6/2.0.1), IEC 60870-5-104, MQTT.
-    * **Automation:** CAN (J1939/CANopen), Modbus TCP/RTU, BACnet.
+    * **Automation:** CANopen, Modbus TCP/RTU, BACnet.
 * **Infrastructure & Security:** Docker, Embedded Linux, ISO 27001 compliant architectures.
 * **Systems Design:** Cross-sectoral energy systems (Sector Coupling), Smart Grid Living Labs, and IoT Gateways.
 
